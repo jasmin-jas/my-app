@@ -1,0 +1,42 @@
+p{
+  font-size:14px;
+  color:#090907;
+
+}
+.tag{
+  color:#e8edf0
+}
+
+.section{
+  padding-top:40px;
+  padding-bottom:40px;
+}
+
+.main-heading{
+  color:rgb(204,18,18);
+
+}
+.underline {
+height:04px;
+width:4rem;
+background-color:#ca8e1f;
+margin-top:10px;
+margin-bottom:10px;
+
+}
+.bg-c-light{
+  background-color:#4b4949;
+
+
+}
+.footer a{
+  color:#fff;
+  text-decoration:none !important;
+}
+.footer a:hover{
+  color:gray;
+  
+}
+.carousel-item{
+  height:500px;
+}
